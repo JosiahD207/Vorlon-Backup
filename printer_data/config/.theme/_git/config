@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 1
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/eriroh/Mainsail-x-Voron-Toolhead-Theme
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	promisor = true
+	partialclonefilter = blob:none
+[branch "Main"]
+	remote = origin
+	merge = refs/heads/Main
