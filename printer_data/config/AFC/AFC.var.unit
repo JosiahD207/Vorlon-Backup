@@ -52,7 +52,7 @@
             "need_purge": false,
             "remember_spool": false,
             "spool_id": null,
-            "color": "#FF0000",
+            "color": "#FFFFFF",
             "weight": 1000.0,
             "extruder_temp": 0,
             "bed_temp": 0,
